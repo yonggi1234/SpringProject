@@ -1,4 +1,4 @@
-Jpackage project.projectspring.repository;
+package project.projectspring.repository;
 
 //import org.junit.jupiter.api.Assertions;
 import org.assertj.core.api.Assertions;
