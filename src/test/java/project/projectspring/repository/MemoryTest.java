@@ -7,7 +7,6 @@ import org.junit.jupiter.api.Test;
 import project.projectspring.domain.Member;
 
 import java.util.List;
-import java.util.Optional;
 
 public class MemoryTest {
     MemoryMemberRepository memberRepository = new MemoryMemberRepository();
